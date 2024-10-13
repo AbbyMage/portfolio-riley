@@ -1,0 +1,187 @@
+
+
+
+
+
+/*page 3 */
+body{
+    margin: 0px;
+}
+.bar{
+    background-color: #000000;
+    width: 1470px;
+    height: 169;
+    margin-right: 100px;
+    margin-left: 0;
+    margin-top: 0;
+  
+  }
+  .white{
+    background-color: rgb(72, 72, 72);
+    height: 1px;
+    width: 1470px;
+    border-radius: 10%;
+  
+  }
+  .typewriter1{
+  
+    text-align: center;
+    color: transparent;
+    font-family: monospace;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+   
+  }
+
+  .small_text{
+    text-align: center;
+    color: rgb(72, 72, 72);
+    font-family: monospace;
+  }
+
+  .text{
+   font-size: larger;
+    font-weight: lighter;
+    font-family: sans-serif;
+  }
+body{
+    margin: 0px;
+}
+.button-home:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+  }
+  .button-home {
+    background-image:url("../resources/backround-gradient.jpg") ;
+    transition-duration: 0.4s;
+    
+    margin-right: 400px;
+  
+    
+    color: rgb(107, 44, 44);
+    border-radius: 10%;
+    padding: 20px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+  }
+  
+  .button-home-2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+  }
+  .button-home-2 {
+    background-image:url("../resources/backround-gradient.jpg") ;
+    transition-duration: 0.4s;
+    
+    margin-left: 400px;
+  
+    
+    color: rgb(107, 44, 44);
+    border-radius: 10%;
+    padding: 20px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+  }
+.reuseblue-template{
+    stfu;
+    }
+    
+    .heading-flex-box{
+        display: flex;
+        
+        
+       
+        column-gap: 70px;
+      
+      }
+    .felex-temp{
+      margin-top: 69px;
+      display: flex;
+      column-gap: 61px;
+    }
+    
+    .image-temp{
+      margin-top: 29px;
+      width: 250px;
+      height: 250px;
+      background-color: #3eb646;
+    }
+    .text-temp-titale{
+     
+      margin-left: 69px;
+    
+    }
+    
+    .temp-text{
+      height: 300px;
+      width: 750px;
+     
+    }
+    
+    .temp{
+      margin-top: 69px;
+      margin-left: 190px;
+      height: 500px;
+      width: 1100px;
+      background-color: #ffd8db;
+      
+    
+    }
+    
+    .sub-temp{
+      margin-left: 69px;
+    margin-top: 69px;
+    }
+    
+    temp-small-text{
+      
+        color: rgb(72, 72, 72);
+        font-family: monospace;
+    }
+    
+    .backround-size-work{
+      width: 1470px;
+      height: 3050px;
+      background-color: #FFA5AB;
+    }
+
+    .bold{
+        font-family: monospace;
+        
+        font-size: 8ch;
+       
+        font-weight: bolder;
+        
+    
+      }
+
+      .ticket-seller{
+        background-image: url(../resources/download-3.jpg);
+        background-size: cover;
+      }
+      .triangle{
+        background-image: url(../resources/download-1.png);
+        background-size: cover;
+      }
+
+      .idk-gusse{
+        background-image: url(../resources/download.png);
+        background-size: cover;
+      }
+
+      .balance{
+        background-image: url(../resources/onetwo.png);
+        background-size: cover;
+      }
+
+      .try-acept{
+        background-image: url(../resources/download-3.png);
+      }
+    

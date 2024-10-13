@@ -1,0 +1,254 @@
+body{
+  margin: 0;
+}
+
+.white{
+  background-color: rgb(72, 72, 72);
+  height: 1px;
+  width: 100px;
+  border-radius: 10%;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+.typewriter {
+  padding-top: 10px;
+
+}
+
+.typewriter h1{
+    text-align: center;
+    color: rgb(72, 72, 72);
+    font-family: monospace;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid rgb(72, 72, 72); /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15; /* Adjust as needed */
+  
+    animation: 
+      typing 15s steps(1000, end),
+      blink-caret .5s step-end infinite ;
+
+    
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0px }
+    to { width: 100% }
+    
+    
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    
+    50% { border-color: rgb(72, 72, 72) }
+  }
+  
+  .boder{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid #000000; 
+  }
+
+  .button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+  }
+ .button {
+    background-image:url("../resources/backround-gradient.jpg") ;
+    transition-duration: 0.4s;
+    margin-top: 70px;
+    margin-right: 5px;
+  
+    
+    color: rgb(107, 44, 44);
+    border-radius: 10%;
+    padding: 20px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+  }
+
+  .typewriter1{
+  
+    text-align: center;
+    color: transparent;
+    font-family: monospace;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+   
+  }
+
+  .small_text{
+    text-align: center;
+    color: rgb(72, 72, 72);
+    font-family: monospace;
+  }
+
+  .text{
+   font-size: larger;
+    font-weight: lighter;
+    font-family: sans-serif;
+  }
+  .flex-backround {
+    display: flex;
+
+
+
+    column-gap: 200px;
+}
+
+.main-flex{
+  display: flex;
+
+
+
+  column-gap: -100px;
+}
+
+
+
+
+  .overlaping-pink-section{
+    
+    margin-left: 140px;
+    align-self: center;
+    margin-bottom: 100;
+    background-color: #ffd8db;
+    width: 420px;                
+    height: 730px;
+  }
+  .backround{
+    
+    
+    width: 1100px;
+    height: 100%;
+  }
+  .left-pink-backround {
+    padding-top: 40px;
+    
+    background-color: #FFA5AB;
+    width: 360px;
+    height: 775px;
+    padding-top: 35px;
+    
+  }
+  .section-0{
+    padding-left: 20px;
+    font-family: monospace;
+    padding-right: 470;
+    
+   
+    font-weight: bolder;
+
+    width: 750px;
+    height: 100%;
+  }
+  .dot {
+    margin-top: 30px;
+    align-self: center;
+    background-image:url("../resources/Unknown-6.jpeg") ;
+    height: 230px;
+    width: 230px;
+    
+    border-radius: 100%;
+    display: inline-block;
+  }
+
+  .bold{
+    font-family: monospace;
+    
+    font-size: 8ch;
+   
+    font-weight: bolder;
+    
+
+  }
+
+  .bubble-text-backround{
+    font-size: 10px;
+    background-image:url("../resources/text-bubble.png");
+    background-size: cover;
+    width: 700px;
+    height: 250px;
+    
+}
+    
+  
+    
+.bubble-text{
+ 
+  width: 720px;
+  height: 250px;
+  
+}
+
+.bubble-text-backround h1 {
+  margin: 50px;
+  padding-top:  30px;
+}
+
+.bottom-bar{
+  margin-top: 39%;
+  width: 100%;
+  height: 45px;
+  background-image: url("../resources/Screenshot\ 2024-09-12\ at\ 14.07.13.png");
+  
+}
+
+
+.bar{
+  background-color: #000000;
+  width: 1470px;
+  height: 169;
+  margin-right: 100px;
+  margin-left: 0;
+  margin-top: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

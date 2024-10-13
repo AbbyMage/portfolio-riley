@@ -1,0 +1,250 @@
+
+/*page 2 about me*/
+body{
+    margin: 0px;
+}
+
+.main-flex{
+    display: flex;
+  
+  
+  
+    column-gap: -100px;
+  }
+  .bar{
+    background-color: #000000;
+    width: 1470px;
+    height: 169;
+    margin-right: 100px;
+    margin-left: 0;
+    margin-top: 0;
+  
+  }
+  .typewriter1{
+  
+    text-align: center;
+    color: transparent;
+    font-family: monospace;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+   
+  }
+
+  .small_text{
+    text-align: center;
+    color: rgb(72, 72, 72);
+    font-family: monospace;
+  }
+
+  .text{
+   font-size: larger;
+    font-weight: lighter;
+    font-family: sans-serif;
+  }
+  .white{
+    background-color: rgb(72, 72, 72);
+    height: 1px;
+    width: 1470px;
+    border-radius: 10%;
+  
+  }
+  .left-side-flex{
+    display: flex;
+    
+    
+    
+    column-gap: 70px;
+    }
+  
+  .icon-holder{
+    
+    
+    width: 100px;
+    height: 550px;
+    
+  }
+  .backround-left-spacing{
+    
+    width: 400px;
+    height: 169px;
+  }
+  .about-me-content-body{
+    background-color: #FFA5AB;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .left-backround-pink{
+    background-color: #ffd8db;;
+    width: 440px;
+    height: 675px;
+    padding: 30px;
+    
+  }
+  
+  .backround-size{
+    background-color: #FFA5AB;;
+    width: 1470px;
+    height: 735px;
+    
+    
+      
+      
+  }
+  
+  .profile-boder{
+    padding: 20px;
+    border-radius: 7px;
+    margin-left: 69px;
+    width: 240px;
+    height: 240px;
+    background-size: cover;
+    background-image: url("../resources/backround-gradient.jpg");
+  }
+  
+  .my-face{
+    border-radius: 7px;
+    width: 240px;
+    height: 240px;
+   
+    background-size: cover;
+    background-image: url("../resources/my-face.png");
+  }
+  .icon{
+    margin-top: 50px;
+      align-self: center;
+      
+      height: 100px;
+      width: 100px;
+      
+      border-radius: 100%;
+      display: inline-block
+      
+  }
+  
+  .arm{
+    background-size: cover;
+    background-image: url("../resources/arm.png");
+  }
+  .brain{
+    background-size: cover;
+    background-image: url("../resources/brain.png");
+  }
+  .location{
+    background-size: cover;
+    background-image: url("../resources/location.webp");
+  }
+  .target{
+    background-size: cover;
+    background-image: url("../resources/target.png");
+  }
+  
+  .right-backround-pink{
+    width: 700px;
+    height: 700px;
+  }
+  
+  .text-title{
+    
+    color: rgb(72, 72, 72);
+    
+    font-size: larger;
+    font-weight: lighter;
+    font-family: sans-serif;
+    margin-left: 100px;
+  }
+  
+  .text-centering{
+    margin-top: 60px;
+    width: 300px;
+    height: 100px;
+    margin-left: 50px;
+  }
+  
+  .black-bar{
+    background-color: #000000;
+    width: 300px;
+    height: 1px;
+    margin-left: 50px;
+  }
+  
+  .heading-flex-box{
+    display: flex;
+    
+    
+   
+    column-gap: 70px;
+  
+  }
+  
+  
+  
+  
+  .button-home:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+  }
+  .button-home {
+    background-image:url("../resources/backround-gradient.jpg") ;
+    transition-duration: 0.4s;
+    
+    margin-right: 400px;
+  
+    
+    color: rgb(107, 44, 44);
+    border-radius: 10%;
+    padding: 20px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+  }
+  
+  .button-home-2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+  }
+  .button-home-2 {
+    background-image:url("../resources/backround-gradient.jpg") ;
+    transition-duration: 0.4s;
+    
+    margin-left: 550px;
+  
+    
+    color: rgb(107, 44, 44);
+    border-radius: 10%;
+    padding: 20px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+  }
+  
+  .backround-icon-text{ 
+    width: 800px;
+    height: 160px;
+    background-image: url("../resources/Screenshot\ 2024-09-22\ at\ 11.15.29.png");
+    background-size: cover;
+  }
+  
+  .text-icons{
+   
+    margin-left: 300px;
+    margin-right: 45px;
+  }
+  .text-icons h5{
+    margin-top: 45px;
+  }
+  
+  .text-icons-spacing{
+   height: 45px;
+    margin-left: 300px;
+  }
+  
+  
+  
+  
+  
